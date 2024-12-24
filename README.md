@@ -1,4 +1,4 @@
-Developed together with @jpbf100
+Developed together with @JPBF100
 
 This is the project for the discipline MAP3122 at USP. This project consists in the implementation of numerical methods (Runge-Kutta and cubic splines) for simulating an Einstein de Sitter universe, in the context of the Friedmann equations (that are a particular solution for the einstein field equations)
 
